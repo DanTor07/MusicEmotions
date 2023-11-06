@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPu9zbq2hlijm61FcGipVQ8j8IDPxv6lim+IASFnZ3QBjQB8y6/v5OPSRQiHrKFwnK85nJFyfeTktJDb7XDjdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Borrador3Proyecto\\Borrador3Proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

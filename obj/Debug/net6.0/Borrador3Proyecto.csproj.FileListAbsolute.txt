@@ -1,0 +1,17 @@
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.exe
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.deps.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.runtimeconfig.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.AssemblyReference.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfoInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfo.cs
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.CopyComplete
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\refint\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.genruntimeconfig.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\ref\Borrador3Proyecto.dll
